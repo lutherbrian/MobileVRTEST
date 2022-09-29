@@ -774,3 +774,18 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.09.29-13.20.18:789][787]LogSlate: Took 0.004872 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2022.09.29-13.20.18:797][787]LogSlate: Took 0.004049 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2022.09.29-13.22.07:720][712]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.203 and deleted 12 file(s) with total size 0 MiB.
+[2022.09.29-13.28.01:768][424]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.09.29-13.28.01:769][424]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.29-13.28.02:719][424]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.29-13.28.10:501][109]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.09.29-13.28.10:554][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.09.29-13.28.11:503][200]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2022.09.29-13.28.11:509][200]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.09.29-13.28.11:509][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.29-13.28.13:465][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.09.29-13.28.14:314][408]LogSlate: Window 'Save Content' being destroyed
+[2022.09.29-13.28.14:386][408]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.005328 seconds
+[2022.09.29-13.28.14:397][408]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.09.29-13.28.14:398][408]LogSavePackage: Moving '../../../../../../Users/Brian/Desktop/MobileVRTEST/VRTEST/Saved/BP_ThirdPersonCharacterA590E5214287256963907B960559D6F8.tmp' to '../../../../../../Users/Brian/Desktop/MobileVRTEST/VRTEST/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.09.29-13.28.14:411][408]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.09.29-13.28.14:411][408]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
